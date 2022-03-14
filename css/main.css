@@ -23,8 +23,8 @@ nav a{
 
 nav ol {
   color: #3f1622;
-  font-style: normal;
-  font-size: 1.125rem;
+  font-weight: bold;
+  font-size: 1.5rem;
   list-style-type: none;
 }
 
