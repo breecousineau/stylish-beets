@@ -16,6 +16,18 @@ header, h1, h2 {
   font-family: "PT Sans"
 }
 
+nav a{
+  text-decoration: none;
+  color: #3f1622;
+}
+
+nav ol {
+  color: #3f1622;
+  font-style: normal;
+  font-size: 1.125rem;
+  list-style-type: none;
+}
+
 .varieties {
   list-style-type: none;
   list-style-type: lower-greek;
