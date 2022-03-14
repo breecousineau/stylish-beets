@@ -17,8 +17,12 @@ header, h1, h2 {
   font-family: "PT Sans";
 }
 
-nav a:hover {
+a {
   color: #8f2440;
+  text-decoration: none;
+}
+
+a:hover {
   text-decoration: underline;
 }
 
@@ -68,8 +72,4 @@ aside {
 
 footer {
   font-size: .8rem;
-}
-
-footer a:hover {
-  color: #8f2440;
 }
