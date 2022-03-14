@@ -1,8 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #c9b5ab;
-  font-family: 'PT Sans', sans-serif;
-  font-size: 1.5rem;
+  font-family: "PT Sans", sans-serif;
   line-height: 1.5;
 }
 
@@ -14,4 +13,49 @@ html {
 
 header, h1, h2 {
   color: #3f1622;
+  font-family: "PT Sans"
+}
+
+.varieties {
+  list-style-type: none;
+  list-style-type: lower-greek;
+}
+
+img {
+  width: 100%
+}
+
+figcaption {
+  font-style: italic;
+}
+
+body {
+  font-family: "PT Serif", serif;
+}
+
+main figure + p {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
+dt {
+  font-weight: bold;
+}
+
+aside {
+  list-style-type: georgian;
+  font-size: 0.8rem;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+a:hover {
+  color: #8f2440;
 }
