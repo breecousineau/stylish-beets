@@ -11,3 +11,8 @@ html {
 body {
   background-color: #c9b5ab;
 }
+
+header,
+footer {
+  font-size: 1.5rem;
+}
